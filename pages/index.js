@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Kiwa.ml" />
         <p className="Best Undetected Free Cheats!">
-          Get started by editing <code>pages/index.js</code>
+          Best Undetected<code>Free Cheats!</code>
         </p>
       </main>
 
