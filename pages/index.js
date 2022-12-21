@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Kiwa.ml</title>
+        <title>Kiwa.ml (WEBSITE IS CURRENTLY BEING BUILT)</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
