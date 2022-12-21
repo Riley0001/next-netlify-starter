@@ -11,8 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
+        <Header title="Kiwa.ml" />
+        <p className="Best Undetected Free Cheats!">
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
